@@ -1,0 +1,7 @@
+
+<resources>
+    <string name="app_name">GitHub Repository</string>
+    <string name="search">Search</string>
+    <string name="hint_query">Account GitHub User</string>
+    <string name="action_reset">Reset</string>
+</resources>
