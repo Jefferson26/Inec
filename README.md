@@ -21,6 +21,5 @@ Aplicação testada no dispositivo físico Zenfone 2 e no dispositivo emulado Ne
 
 Antes de testar a aplicação verificar se o dispositivo possui conexão com a internet e verificar se não esta bloqueado.
 
-Para os dispositivos físicos algumas redes podem bloquear a aplicação por questões de configuração de segurança da rede. 
+A API do GitHub pode bloquear requisisões por um tempo caso se atinja um limite.
 Nesse caso a aplicação pode ser testada em uma rede 3G.
-
