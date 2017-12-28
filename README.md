@@ -5,12 +5,12 @@ Para o desenvolvimento e teste desta aplicação foi usado o Android Studio com 
 
 O projeto foi desenvolvido para versão minima do SDK = 14
 
-Outras ferramentas do SDK estão abaixo:
+Outras ferramentas do SDK:
 Intel x86 Emulator Accelerator
 Android Emulator
 Suport Repository
 
-Algumas bibliotecas e frameworks adicionados no Graddle
+Algumas bibliotecas e frameworks adicionados no Graddle:
   Appcompat-v7:25.3.1
   Circleimageview:2.1.0
   Recyclerview-v7:25.3.1
